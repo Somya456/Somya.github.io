@@ -1,7 +1,7 @@
 # Somya.github.io
-Follow me on my journey of excelling in DSA!!!
+Follow me on my journey of excelling in DSA!!  
 
-# 🧑‍💻 DSA Practice Blog  
+# 👩‍💻 DSA Practice Blog  
 
 A personal blog documenting my journey of solving **Data Structures & Algorithms (DSA)** problems.  
 This repository serves as a collection of problem-solving approaches, explanations, and code implementations across different topics.  
